@@ -24,7 +24,7 @@ Explore recipes and add ingredients to your shopping list. And create Shopping l
 
 You can download and install the Smart Shopping List app on your Android device from the Google Play Store. It is developed for ios but not released on App Store yet!
 
-[![Google Play Store](https://play.google.com/store/apps/details?id=com.JKWSolutions.listapp&pli=1)
+Download here! **Not latest version**(https://play.google.com/store/apps/details?id=com.JKWSolutions.listapp&pli=1)
 
 
 Hope you enjoy Smart Shopping List!
