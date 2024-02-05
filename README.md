@@ -8,7 +8,6 @@ Smart Shopping List is a Flutter-based mobile application designed to simplify a
 - **Dynamic Shopping Lists:** Automatically generate and sort shopping lists based on chosen recipes.
 - **Categorized Items:** Items in your shopping list are sorted by categories for efficient shopping.
 - **Intuitive Interface:** A user-friendly interface for easy navigation and usage.
-- **Real-time Updates:** Collaborate with family or friends and receive real-time updates on list changes.
 - **Offline Mode:** Access your shopping lists even when offline.
 
 # Screenshots
