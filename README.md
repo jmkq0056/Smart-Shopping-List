@@ -2,6 +2,8 @@
 
 Smart Shopping List is a Flutter-based mobile application designed to simplify and enhance your grocery shopping experience. This app allows users to discover recipes and create categorized shopping lists based on shopping items.
 
+# Cross platform programming in Flutter makes this application available for Android, IOS, Chrome, MacOS and Winodws
+
 #Features
 
 - **Recipe Discovery:** Explore a variety of recipes and add ingredients to your shopping list.
